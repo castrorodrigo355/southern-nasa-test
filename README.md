@@ -1,5 +1,9 @@
 ### TEST REACT (SC Test). Using React, build an app
 
+### Create .env.local
+NEXT_PUBLIC_BASE_URL=https://api.nasa.gov/mars-photos/api/v1/rovers
+NEXT_PUBLIC_API_KEY=
+
 ### Install dependencies
 ```npm install```
 ### Execute project
